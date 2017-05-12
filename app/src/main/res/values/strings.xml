@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="task_input">My new task...</string>
+</resources>
